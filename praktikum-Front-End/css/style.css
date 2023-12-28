@@ -1,0 +1,44 @@
+/*p{
+    color: blue;
+    text-align: justify;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    text-indent: 20px;
+    line-height: 40px;
+}*/
+
+.main{
+    width: 400px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 15px;
+}
+
+h1, h2{
+    color: blue;
+    text-align: center;
+}
+
+.bold{
+    color: red;
+    font-weight: bold;
+}
+
+.italic{
+    color: blue;
+    font-style: italic;
+}
+
+/*p{
+    text-align: justify;
+    text-indent: 30px;
+    line-height: 30px;
+} */
+
